@@ -99,24 +99,24 @@ curl -X POST "https://www.bing.com/indexnow" \
 - llms.txt标准化AI可读内容
 - Schema.org结构化数据全页面覆盖
 
-查看完整案例：https://shanhai-geo.github.io/geo-service.html
+查看完整案例：https://shanhai-geo.top/geo-service.html
 
 ## 更多资源
 
-- GEO vs SEO对比：https://shanhai-geo.github.io/geo-guide-geo-vs-seo.html
-- 什么是GEO：https://shanhai-geo.github.io/geo-guide-what-is-geo.html
-- AI搜索引擎指南：https://shanhai-geo.github.io/geo-engines.html
-- GEO快速入门：https://shanhai-geo.github.io/geo-speed.html
+- GEO vs SEO对比：https://shanhai-geo.top/geo-guide-geo-vs-seo.html
+- 什么是GEO：https://shanhai-geo.top/geo-guide-what-is-geo.html
+- AI搜索引擎指南：https://shanhai-geo.top/geo-engines.html
+- GEO快速入门：https://shanhai-geo.top/geo-speed.html
 
 ## 许可
 
 本框架由山海智能开源，MIT License。
 
-如果你需要专业GEO优化服务：https://shanhai-geo.github.io/geo-service.html
+如果你需要专业GEO优化服务：https://shanhai-geo.top/geo-service.html
 
 ---
 
-Made by [山海智能](https://shanhai-geo.github.io) | GEO先行者
+Made by [山海智能](https://shanhai-geo.top) | GEO先行者
 
 ---
 
